@@ -1,0 +1,62 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+body{
+    overflow-x: hidden;
+    background-color: black;
+}
+
+/* home page */
+.head1 h1{
+    color: orange;
+    /* text-align: center; */
+    position: relative;
+    top: 190px;    
+    left: 600px;
+    font-family: 'Roboto', sans-serif;
+    font-size: 50px;
+}
+#heading1{
+    color: white;
+    position: relative;
+    left: 620px;
+}
+.image1 img{
+    width: 350px;
+    height: 450px;
+    object-fit: cover;
+    border-radius: 10px;
+    position: relative;
+    left: 130px;
+    top: -30px;
+}
+.para p{
+    color: white;
+    position: relative;
+    left: 630px;
+    top: -250px;
+    font-family: 'Baloo Bhai 2', cursive;
+}
+.para button{
+    position: relative;
+    top: -280px;
+    left: 630px;
+    color: white;
+    width: 250px;
+    height: 50px;
+    font-family: 'Baloo Bhai 2', cursive;
+}
+#ghous{
+    color: orange;
+    position: relative;
+    left: 735px;
+    top: -291px;
+}
+
+hr{
+    color: white;
+    position: relative;
+    top: -100px;
+    width: 1320px;
+}
