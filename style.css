@@ -252,3 +252,241 @@ body {
     position: relative;
     left: 590px;
 }
+
+#br2 {
+    display: none;
+}
+
+
+@media (min-width: 320px) and (max-width: 480px) {
+    .qadeerabdul {
+        overflow-x: hidden;
+    }
+
+    .main {
+        height: 500px;
+    }
+
+    #hr1 {
+        color: white;
+        position: relative;
+        top: 40px;
+        left: 0px;
+        width: 310px;
+    }
+
+    .image1 img {
+        width: 100px;
+        height: 100px;
+        position: relative;
+        left: 110px;
+        top: -20px;
+    }
+
+    .head1 h1 {
+        color: orange;
+        position: relative;
+        top: 160px;
+        left: 70px;
+        font-size: 20px;
+    }
+
+    #heading1 {
+        position: relative;
+        left: 120px;
+        top: 155px;
+    }
+
+    .para p {
+        position: relative;
+        left: 40px;
+        top: 50px;
+        font-size: 10px;
+    }
+
+    #ghous {
+        position: relative;
+        left: 105px;
+        top: 19px;
+    }
+
+    .para button {
+        position: relative;
+        top: 10px;
+        left: 75px;
+        width: 150px;
+        height: 30px;
+        font-size: 10px;
+    }
+
+    /* section2 */
+    .heading2 h1 {
+        font-size: 20px;
+        position: relative;
+        top: -100px;
+        left: -45px;
+    }
+
+    #heading3 {
+        position: relative;
+        left: 15px;
+        top: -132px;
+    }
+
+    .heading4 {
+        position: relative;
+        top: -100px;
+        left: 50px;
+        font-size: 20px;
+    }
+
+    #heading5 {
+        color: orange;
+        position: relative;
+        top: -35px;
+    }
+
+    #heading6 {
+        position: relative;
+        left: 50px;
+        top: -75px;
+    }
+
+    .para2 p {
+        position: relative;
+        left: 10px;
+        top: -150px;
+        font-size: 10px;
+    }
+
+    #br1 {
+        display: none;
+    }
+
+    #br2 {
+        display: block;
+    }
+
+    #hr2 {
+        color: white;
+        position: relative;
+        top: -50px;
+        left: 0px;
+        width: 310px;
+    }
+
+    /* section3 */
+    .heading10 h1 {
+        position: relative;
+        top: -14px;
+        left: -75px;
+        font-size: 20px;
+    }
+
+    #heading11 {
+        color: orange;
+        position: relative;
+        top: -46px;
+        left: 15px;
+    }
+
+    .imge54 a img {
+        width: 310px;
+        height: 400px;
+    }
+
+    #image60 {
+        position: relative;
+        top: 15px;
+    }
+
+    .imge55 a img {
+        width: 310px;
+        height: 400px;
+    }
+
+    #image61 {
+        position: relative;
+        top: 30px;
+    }
+
+    #image62 {
+        position: relative;
+        top: 45px;
+    }
+
+    .btn button {
+        position: relative;
+        top: 70px;
+        left: 90px;
+        width: 100px;
+        height: 50px;
+    }
+
+    #hr3 {
+        color: white;
+        position: relative;
+        top: 120px;
+        left: 0px;
+        width: 310px;
+    }
+
+    /* section4 */
+    .section4 {
+        height: 400px;
+    }
+
+    .heading43 {
+        position: relative;
+        top: 150px;
+        left: -80px;
+        font-size: 20px;
+    }
+
+    #heading45 {
+        position: relative;
+        top: -42px;
+        left: 80px;
+    }
+
+    .icon i {
+        font-size: 20px;
+        position: relative;
+        top: 150px;
+    }
+
+    #icon1 {
+        position: relative;
+        left: 15px;
+    }
+
+    #icon2 {
+        position: relative;
+        left: 35px;
+    }
+
+    #icon3 {
+        position: relative;
+        left: 55px;
+    }
+
+    #icon4 {
+        position: relative;
+        left: 75px;
+    }
+
+    #icon5 {
+        position: relative;
+        left: 95px;
+    }
+
+    #icon6 {
+        position: relative;
+        left: 115px;
+    }
+
+    #icon7 {
+        position: relative;
+        left: 140px;
+    }
+}
